@@ -1,0 +1,69 @@
+@@?/rdbms/admin/sqlsessstart.sql
+CREATE OR REPLACE PACKAGE dbms_cube_prvtexp wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+4d5 22b
+/qi2rAOJxcd581CR4ViO9WrB94wwg5CJLiCGyi9AEv9kj31aXCjtiyEcG2GYBFBHLypJGj92
+1VzNueUknbT0sVXJjTLZRAgIpbyl4fOlWyGRHLlBh05zZJjG5OSb+MGGBU6XVsXIoM3Yr9tZ
+h8fTBmMUZvT1De9euy5sEr7CMpaIXi5YSIaDqdhmhOvW946MjLwWqdnRITGs5gHemfopYzjh
+E9a/+IHUjhTKMduRqyV2/P3m17LW6iby1R/EByU6LZsmZPSWckVgLzYMqlIy50rdT1uAVd0H
+YFp7w9pwfjdkH8iimmzH44NEJPezobmXI9e1n6u+BXPedu5sSSFu2HAMbNiWg6RaKAAQEIxR
+DpGLIVvOdZcjA4Mb0IbzdLHd8mH7CgnpUJ91eqHY2c2z28fGSfGh5uAas4adb1ceCA72p54l
+eUnFt12TmMbwP6mvhlcQMOZWN8dJqPEk+4tbZXTBclQyZjrzMfHgEpeOsF6aBGrCpii7ln3f
+FCCwzsE2F1z1NX2iMgNRrNdPYF2Qp9ALxwjL6m22Sg==
+
+/
+show errors;
+CREATE OR REPLACE PACKAGE BODY dbms_cube_prvtexp wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+784 33f
+WvjSobeGMhb5ZBkLbMQCmK2RN78wg5BcLtCDfC/NrZ0VxKmg/DjEXD1gAFf/Nmg52sKkl0HY
+RMBUJpTVcNXL5M6Dy6F28QFrvnWIcjR4TxvGXUlBphhCm+M82STa7SNMp5IB+L8PHIcvpzXI
+mdzKPjYOvRbXhixniUHnR4l2iKHrNlwsAblwlVY5Uh8OmSyv8Y82ez9/wYhwnzGzCMDMvTRp
+M3ULNehUaA/uvaWdQezBGMArEotYd3ePLhnZIR/1GedJwfbFkdXV+o7Jzjy4O0lqglMAzCZL
+4Xef63tPRWVgwzl/WRaZJ5ggmswYgr3MplYpcmCONt6v49Xs7Vka3FeIWO/GJyfuHg7UWqnF
+ogqlvtzqqNXCVn4mxaDHy/vxH6yp2arj/OD5lBsjeCGCvOaTXnmsIeEX6MpZKt+Mlk/U6HtK
+xVmpkbSK/5JCxCOD4oHAAzpMHyrmqHsc1dqcINUo3l9K6ONSXGL8OO3kVBxBv/iQFr8Tsc3l
+dgJrPsz9GUfiySQ0B2R5MDhXYCee2P1P3nmELYOnrvjC1vYTfKn4OmuvMrSG55MM7GCQNHA1
+DoNjD6d1/SOoCsp+t5C3D4jVq5IDN6W6uHpRRbGLsE/t84SdeypNF0igv0o7uZ1bOCYT9x50
+nCRCSw4J+pKSBkZPqyR8jxnFMgjPG0fjaqfsjubAayZdviYFYn0gcKL5hCCUkmi4d3LlgMPM
+dEW/5wlpkYMXfGMKMrkIvrkx5fkyU/JCr/GSs/0jxKv9gpryjrCsdMYlvZyRceZyXTvSBzuy
+Du1ZBlg92w7Hf+pLhYwotabi0f/s
+
+/
+SHOW ERRORS;
+GRANT EXECUTE ON dbms_cube_prvtexp TO PUBLIC;
+@@?/rdbms/admin/sqlsessend.sql

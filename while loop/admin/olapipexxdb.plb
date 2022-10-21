@@ -1,0 +1,74 @@
+@@?/rdbms/admin/sqlsessstart.sql
+CREATE OR REPLACE PACKAGE dbms_cube_prvtexp wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+4d5 22b
+/qi2rAOJxcd581CR4ViO9WrB94wwg5CJLiCGyi9AEv9kj31aXCjtiyEcG2GYBFBHLypJGj92
+1VzNueUknbT0sVXJjTLZRAgIpbyl4fOlWyGRHLlBh05zZJjG5OSb+MGGBU6XVsXIoM3Yr9tZ
+h8fTBmMUZvT1De9euy5sEr7CMpaIXi5YSIaDqdhmhOvW946MjLwWqdnRITGs5gHemfopYzjh
+E9a/+IHUjhTKMduRqyV2/P3m17LW6iby1R/EByU6LZsmZPSWckVgLzYMqlIy50rdT1uAVd0H
+YFp7w9pwfjdkH8iimmzH44NEJPezobmXI9e1n6u+BXPedu5sSSFu2HAMbNiWg6RaKAAQEIxR
+DpGLIVvOdZcjA4Mb0IbzdLHd8mH7CgnpUJ91eqHY2c2z28fGSfGh5uAas4adb1ceCA72p54l
+eUnFt12TmMbwP6mvhlcQMOZWN8dJqPEk+4tbZXTBclQyZjrzMfHgEpeOsF6aBGrCpii7ln3f
+FCCwzsE2F1z1NX2iMgNRrNdPYF2Qp9ALxwjL6m22Sg==
+
+/
+show errors;
+CREATE OR REPLACE PACKAGE BODY dbms_cube_prvtexp wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+b0d 4ac
+qYss27H+NJ69hJsWB2iWglEFebowg5ArTCCDfI5Vgp0VlrbK6Vq6eC7V/NaGaGdhcBdh69Dt
+onnuawlJxRGwIorGu4NKtlvmDBMf4xC7rcE/MT4W+KEXZ+D3cfdD1095Mvj1A+Uc36os6nIo
+RuX71WPT8RTl8jYKFhdcNYFxXEgQGsFYwtVdbvLfsJtOdZEnZ+OsdnUbfXxr5JfsjyfFlaxx
+GwiirNNjkWmQF7g1L1lgAB598Nwfx8hnj+qhx8YqZTPUIWaytXVu964RXyhDvYiNevu+9qTl
+vXaK1jVAjtSgBzh6fKfnLgbV8R1PPehixVx+ewSOCXxa8ncAHUz0zlsbjOyhlw2r7rqNbCp5
+1M0olh9/hRZQA7V8Rui99eTgqMAO5AGA2W0IvlcMeT/PvkqlNjBkF2yekL25AJlZSEAwA7Fm
+YpGfGW/UrSy3qLeTlYtLDiCN9nqtTN0FHVzsJ8p5KvDHTJTann9HZUg5BvIu8TBr5ZrHhW36
+a2Hjz1jvD2GF6qhm1ryKYN9MzC/Pd0a2rUKGKaa4FjNXLczr8YK67wMp6M+Jd+/ws6BeYjWc
+wkznhNkJ4O+CHW4mw11XLByRXx02aJ5k80A0R07ujpxf6FYqteRvIl2anW+y6X83LcfXwPPE
+dRELfgVLbptVMOzr211RltgfDB58+gre3fqJgxzQdS/P83a3/zILgpIzAVncclY9fPunXnpv
+p78FBR7XwkWTZLsQnVn09BkxMWhhuxDVU0BYweaYt/hCQoKTAJp5LMTADUwkeUjq7xNRKxkV
+bnv4m9y8xJtAhOpL4rzrA6cGnwNFP3EyuC7zI7idQSFTbxJ6gZS720ScdGh/UjjjRCUMQ6J1
+3C3cOMlH1SWdZDoV8lhgCrrhtUChZc2N4rucCteFMl0OKecguboqhTUgDCyuBCvXXp+972XY
+f1kPufH4zH0hEFfzuFg+O+QzbV6HeJFXXYHctx4/oJIaKUhAZp+dyuVZ9OEMEHW0jlO1HoYL
+zZi6kWIMfWJgGLHaVwJb9fXiSANLtfoDT6Bn2D3HfQs+WmmW9Qd6lYwgvNA3tD/XhyrGTAm5
+/YR9w4l6COpxmmIBkyhEqcz2NeFEGw2yxRzTB/xdeXGKc/cyrMbrhzUoqtV3o3Zm9XpzyoUL
+33ksA2VA5cjBq9FtKQe1Xz3t9w==
+
+/
+SHOW ERRORS;
+GRANT EXECUTE ON dbms_cube_prvtexp TO PUBLIC;
+@@?/rdbms/admin/sqlsessend.sql

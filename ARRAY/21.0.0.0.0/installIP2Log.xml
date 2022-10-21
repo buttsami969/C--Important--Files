@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes" ?>
+<!-- Copyright (c) 1999, 2021, Oracle and/or its affiliates.
+All rights reserved. -->
+<!-- Do not modify the contents of this file by hand. -->
+<ACTION_LIST>
+<ACTION NAME="instantiateFileEx" INSTALL="T" DEINSTALL="T">
+<LIB NAME="fileActions" VER="12.2.0.9.0" REP_VER="0.0" MIN_INST_VER="1.5.0.0.0"/>
+<INPUT_LIST>
+<INPUT NAME="source" VAL="%s_sourceOrdisys%" TYPE="String" SECURE="F"/>
+<INPUT NAME="destination" VAL="%s_destOrdisys%" TYPE="String" SECURE="F"/>
+<INPUT NAME="variables" VAL="null" TYPE="" SECURE="F"/>
+<INPUT NAME="delimiter" VAL="null" TYPE="" SECURE="F"/>
+<INPUT NAME="encoding" VAL="null" TYPE="" SECURE="F"/>
+</INPUT_LIST>
+<LOG_OBJ_LIST>
+</LOG_OBJ_LIST>
+</ACTION>
+<ACTION NAME="instantiateFileEx" INSTALL="T" DEINSTALL="T">
+<LIB NAME="fileActions" VER="12.2.0.9.0" REP_VER="0.0" MIN_INST_VER="1.5.0.0.0"/>
+<INPUT_LIST>
+<INPUT NAME="source" VAL="%s_sourceOrdLib%" TYPE="String" SECURE="F"/>
+<INPUT NAME="destination" VAL="%s_destOrdLib%" TYPE="String" SECURE="F"/>
+<INPUT NAME="variables" VAL="null" TYPE="" SECURE="F"/>
+<INPUT NAME="delimiter" VAL="null" TYPE="" SECURE="F"/>
+<INPUT NAME="encoding" VAL="null" TYPE="" SECURE="F"/>
+</INPUT_LIST>
+<LOG_OBJ_LIST>
+</LOG_OBJ_LIST>
+</ACTION>
+</ACTION_LIST>
